@@ -37,7 +37,7 @@
 - [#112](https://gloomhavendb.com/items/112) Ancient Drill
 
 ### Spellweaver - Caytlynn (lvl 6)
-43 :moneybag:
+58 :moneybag:
 285 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
