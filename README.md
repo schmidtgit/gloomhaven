@@ -26,11 +26,11 @@
 ### Brute - Siebenhaar (lvl 5)
 ? :moneybag:
 ? :star:
-- #001 Boots of Striding
-- #003 Hide Armor
-- #007 Iron Helmet
-- #012 Minor Healing Potion
-- #112 Ancient Drill
+- [#001](https://gloomhavendb.com/items/1) Boots of Striding
+- [#003](https://gloomhavendb.com/items/3) Hide Armor
+- [#007](https://gloomhavendb.com/items/7) Iron Helmet
+- [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
+- [#112](https://gloomhavendb.com/items/112) Ancient Drill
 
 ### Spellweaver - Neo (lvl 5)
 ? :moneybag:
