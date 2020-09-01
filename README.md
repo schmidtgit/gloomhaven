@@ -26,8 +26,11 @@
 ### Brute - Siebenhaar (lvl 5)
 ? :moneybag:
 ? :star:
-- Item a
-- Item b
+- #001 Boots of Striding
+- #003 Hide Armor
+- #007 Iron Helmet
+- #012 Minor Healing Potion
+- #112 Ancient Drill
 
 ### Spellweaver - Neo (lvl 5)
 ? :moneybag:
