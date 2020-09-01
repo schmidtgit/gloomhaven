@@ -29,6 +29,12 @@
 # Party
 13 :crown: Reputation
 -3 :convenience_store: SHOP DISCOUNT
+## Achievements :trophy:
+- City Rule: Militaristic
+- The Merchant Flees
+- The Power of Enhancement
+- Ancient Technology 2/5
+
 ### Brute - Siebenhaar (lvl 6)
 95 :moneybag:
 309 :star:
@@ -57,7 +63,7 @@
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 
-### Beast Tyran - Rotten (lvl 2)
+### Beast Tyrant - Rotten (lvl 2)
 21 :moneybag:
 85 :star:
 - [#002](https://gloomhavendb.com/items/2) Winged Shoes
