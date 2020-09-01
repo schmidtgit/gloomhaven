@@ -22,10 +22,12 @@
 - [ ] 81 Temple of the Eclipse
 - [ ] 82 Burning Mountain :gift:
 
-# Characters
+# Party
+10 :crown: Reputation
+-2 :convenience_store: SHOP DISCOUNT
 ### Brute - Siebenhaar (lvl 5)
-? :moneybag:
-? :star:
+76 :moneybag:
+267 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
@@ -33,18 +35,26 @@
 - [#112](https://gloomhavendb.com/items/112) Ancient Drill
 
 ### Spellweaver - Neo (lvl 5)
-? :moneybag:
-? :star:
-- Item a
-- Item b
+84 :moneybag:
+266 :star:
+- [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
+- [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
+- [#009](https://gloomhavendb.com/items/9) Piercing Bow
+- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
+- [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 
 ### Cragheart - Rune (lvl 5)
-? :moneybag:
-? :star:
-- Item a
-- Item b
+2 :moneybag:
+224 :star:
+- [#001](https://gloomhavendb.com/items/1) Boots of Striding
+- [#003](https://gloomhavendb.com/items/3) Hide Armor
+- [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
+- [#009](https://gloomhavendb.com/items/9) Piercing Bow
+- [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 
 ### Beast Tyran - Rotten (lvl 2)
-45 :moneybag:
+11 :moneybag:
 45 :star:
-- No items ._.
+- [#002](https://gloomhavendb.com/items/2) Winged Shoes
+- [#007](https://gloomhavendb.com/items/7) Iron Helmet
+- [#0013](https://gloomhavendb.com/items/13) Minor Stamina Potion
