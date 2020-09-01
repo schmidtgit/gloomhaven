@@ -3,16 +3,18 @@
 - [x] 2 Barrow Lair 
 - [x] 3 Inox Encampment 
 - [x] 4 Crypt of the Damned
-- [ ] 5 Ruinous Crypt
-- [ ] 6 Decaying Crypt
+- [x] 5 Ruinous Crypt
+- [ ] 6 Decaying Crypt 
 - [x] 7 Vibrant Grotto 
 - [x] 8 Warehouse 
 - [ ] ~~9 Diamond Mine~~
+- [ ] 10 Plane of Elemental Power
 - [x] 13 Temple of the Seer 
 - [x] 14 Frozen Hollow 
 - [x] 15 Shrine of Strength 
 - [ ] 16 Mountain Pass
 - [x] 18 Abandoned Sewers 
+- [ ] 19 Forgotten Crypt
 - [x] 20 Necromancer's Sanctum 
 - [ ] 23 Deep Ruins
 - [ ] 26 Ancient Cistern :lock:
