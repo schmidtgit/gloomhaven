@@ -36,14 +36,15 @@
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#112](https://gloomhavendb.com/items/112) Ancient Drill
 
-### Spellweaver - Neo (lvl 6)
-91 :moneybag:
+### Spellweaver - Caytlynn (lvl 6)
+43 :moneybag:
 285 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
+- [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
 ### Cragheart - Rune (lvl 5)
 12 :moneybag:
