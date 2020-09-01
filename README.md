@@ -17,7 +17,7 @@
 - [ ] 28 Outer Ritual Chamber :lock:
 - [ ] 43 Drake Nest
 - [x] 65 Sulfur Mine 
-- [x] 66 Clockwork Cove 
+- [x] 66 Clockwork Cove :gift:
 - [ ] 76 Harrower Hive
 - [ ] 81 Temple of the Eclipse
-- [ ] 82 Burning Mountain
+- [ ] 82 Burning Mountain :gift:
