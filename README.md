@@ -47,7 +47,7 @@
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
 ### Cragheart - Rune (lvl 5)
-12 :moneybag:
+29 :moneybag:
 253 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
