@@ -31,7 +31,7 @@
 -3 :convenience_store: SHOP DISCOUNT
 ### Brute - Siebenhaar (lvl 6)
 95 :moneybag:
-290 :star:
+309 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
@@ -39,8 +39,8 @@
 - [#112](https://gloomhavendb.com/items/112) Ancient Drill
 
 ### Spellweaver - Caytlynn (lvl 6)
-58 :moneybag:
-285 :star:
+67 :moneybag:
+313 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
@@ -48,9 +48,9 @@
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
-### Cragheart - Rune (lvl 5)
-29 :moneybag:
-253 :star:
+### Cragheart - Rune (lvl 6)
+8 :moneybag:
+277 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
@@ -58,8 +58,8 @@
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 
 ### Beast Tyran - Rotten (lvl 2)
-15 :moneybag:
-62 :star:
+21 :moneybag:
+85 :star:
 - [#002](https://gloomhavendb.com/items/2) Winged Shoes
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#0013](https://gloomhavendb.com/items/13) Minor Stamina Potion
