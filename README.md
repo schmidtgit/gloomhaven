@@ -25,8 +25,8 @@
 - [ ] 82 Burning Mountain :gift:
 
 # Party
-10 :crown: Reputation
--2 :convenience_store: SHOP DISCOUNT
+12 :crown: Reputation
+-3 :convenience_store: SHOP DISCOUNT
 ### Brute - Siebenhaar (lvl 6)
 95 :moneybag:
 290 :star:
