@@ -21,3 +21,27 @@
 - [ ] 76 Harrower Hive
 - [ ] 81 Temple of the Eclipse
 - [ ] 82 Burning Mountain :gift:
+
+# Characters
+### Brute - Siebenhaar (lvl 5)
+? :moneybag:
+? :star:
+- Item a
+- Item b
+
+### Spellweaver - Neo (lvl 5)
+? :moneybag:
+? :star:
+- Item a
+- Item b
+
+### Cragheart - Rune (lvl 5)
+? :moneybag:
+? :star:
+- Item a
+- Item b
+
+### Beast Tyran - Rotten (lvl 2)
+45 :moneybag:
+45 :star:
+- No items ._.
