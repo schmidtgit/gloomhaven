@@ -20,7 +20,7 @@
 - [ ] 43 Drake Nest
 - [x] 65 Sulfur Mine 
 - [x] 66 Clockwork Cove :gift:
-- [ ] 76 Harrower Hive
+- [ ] 76 Harrower Hive :muscle:
 - [ ] 81 Temple of the Eclipse
 - [ ] 82 Burning Mountain :gift:
 
