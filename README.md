@@ -16,7 +16,7 @@
 - [x] 18 Abandoned Sewers 
 - [ ] 19 Forgotten Crypt
 - [x] 20 Necromancer's Sanctum 
-- [ ] 21 Infernal Throne
+- [x] 21 Infernal Throne
 - [ ] 22 Temple of The Elements
 - [ ] 23 Deep Ruins
 - [ ] 26 Ancient Cistern :lock:
