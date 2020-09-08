@@ -16,6 +16,8 @@
 - [x] 18 Abandoned Sewers 
 - [ ] 19 Forgotten Crypt
 - [x] 20 Necromancer's Sanctum 
+- [ ] 21 Infernal Throne
+- [ ] 22 Temple of The Elements
 - [ ] 23 Deep Ruins
 - [ ] 26 Ancient Cistern :lock:
 - [ ] 28 Outer Ritual Chamber :lock:
@@ -36,8 +38,8 @@
 - Ancient Technology 2/5
 
 ### Brute - Siebenhaar (lvl 6)
-95 :moneybag:
-309 :star:
+107 :moneybag:
+326 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
@@ -46,7 +48,7 @@
 
 ### Spellweaver - Caytlynn (lvl 6)
 67 :moneybag:
-313 :star:
+336 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
@@ -55,8 +57,8 @@
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
 ### Cragheart - Rune (lvl 6)
-8 :moneybag:
-277 :star:
+23 :moneybag:
+299 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
@@ -64,8 +66,8 @@
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 
 ### Beast Tyrant - Rotten (lvl 2)
-21 :moneybag:
-85 :star:
+24 :moneybag:
+107 :star:
 - [#002](https://gloomhavendb.com/items/2) Winged Shoes
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#0013](https://gloomhavendb.com/items/13) Minor Stamina Potion
