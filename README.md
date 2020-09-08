@@ -8,7 +8,7 @@
 - [x] 7 Vibrant Grotto 
 - [x] 8 Warehouse 
 - [ ] ~~9 Diamond Mine~~
-- [ ] 10 Plane of Elemental Power
+- [x] 10 Plane of Elemental Power
 - [x] 13 Temple of the Seer 
 - [x] 14 Frozen Hollow 
 - [x] 15 Shrine of Strength 
@@ -65,7 +65,7 @@
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 
-### Beast Tyrant - Rotten (lvl 2)
+### Beast Tyrant - Rotten (lvl 3)
 24 :moneybag:
 107 :star:
 - [#002](https://gloomhavendb.com/items/2) Winged Shoes
