@@ -59,7 +59,7 @@
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 
 ### Cragheart - Rune (lvl 6)
-72 :moneybag:
+22 :moneybag:
 320 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
@@ -69,7 +69,7 @@
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 
 ### Beast Tyrant - Rotten (lvl 3)
-74 :moneybag:
+24 :moneybag:
 129 :star:
 - [#002](https://gloomhavendb.com/items/2) Winged Shoes
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
