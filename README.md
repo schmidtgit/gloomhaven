@@ -38,7 +38,7 @@
 - Ancient Technology 2/5
 
 ### Brute - Siebenhaar (lvl 7)
-169 :moneybag:
+34 :moneybag:
 346 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
