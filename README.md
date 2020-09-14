@@ -17,10 +17,13 @@
 - [ ] 19 Forgotten Crypt
 - [x] 20 Necromancer's Sanctum 
 - [x] 21 Infernal Throne
-- [ ] 22 Temple of The Elements
+- [x] 22 Temple of The Elements
 - [ ] 23 Deep Ruins
 - [ ] 26 Ancient Cistern :lock:
 - [ ] 28 Outer Ritual Chamber :lock:
+- [ ] 31 Plane of Night
+- [ ] 35 Gloomhaven Battlements A
+- [ ] 36 Gloomhaven Battlements B
 - [ ] 43 Drake Nest
 - [x] 65 Sulfur Mine 
 - [x] 66 Clockwork Cove :gift:
