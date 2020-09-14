@@ -48,7 +48,7 @@
 - [#112](https://gloomhavendb.com/items/112) Ancient Drill
 
 ### Spellweaver - Caytlynn (lvl 7)
-126 :moneybag:
+119 :moneybag:
 360 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
@@ -56,15 +56,17 @@
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
+- [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 
 ### Cragheart - Rune (lvl 6)
-79 :moneybag:
+72 :moneybag:
 320 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
+- [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 
 ### Beast Tyrant - Rotten (lvl 3)
 74 :moneybag:
