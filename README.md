@@ -40,16 +40,6 @@
 - The Power of Enhancement
 - Ancient Technology 2/5
 
-### Brute - Siebenhaar (lvl 7)
-58 :moneybag:
-367 :star:
-- [#001](https://gloomhavendb.com/items/1) Boots of Striding
-- [#003](https://gloomhavendb.com/items/3) Hide Armor
-- [#007](https://gloomhavendb.com/items/7) Iron Helmet
-- [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
-- [#045](https://gloomhavendb.com/items/45) Pendant of Dark Pacts
-- [#112](https://gloomhavendb.com/items/112) Ancient Drill
-
 ### Spellweaver - Caytlynn (lvl 7)
 131 :moneybag:
 383 :star:
@@ -77,3 +67,8 @@
 - [#002](https://gloomhavendb.com/items/2) Winged Shoes
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#0013](https://gloomhavendb.com/items/13) Minor Stamina Potion
+
+
+### Summoner - Else-Marie (lvl 2)
+45 :moneybag:
+45 :star:
