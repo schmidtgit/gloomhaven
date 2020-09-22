@@ -78,6 +78,7 @@
 - [ ] 35 Gloomhaven Battlements A
 - [ ] 36 Gloomhaven Battlements B
 - [x] 43 Drake Nest
+- [ ] 59 Forgotten Grove
 - [x] 65 Sulfur Mine 
 - [x] 66 Clockwork Cove :gift:
 - [ ] 76 Harrower Hive :muscle:
