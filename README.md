@@ -14,7 +14,7 @@
 
 ### Spellweaver - Caytlynn (lvl 7)
 104 :moneybag:
-383 :star:
+388 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
@@ -26,7 +26,7 @@
 
 ### Cragheart - Rune (lvl 6)
 34 :moneybag:
-343 :star:
+348 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
@@ -36,14 +36,14 @@
 
 ### Beast Tyrant - Rotten (lvl 4)
 27 :moneybag:
-156 :star:
+161 :star:
 - [#002](https://gloomhavendb.com/items/2) Winged Shoes
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 
 ### Summoner - Else-Marie (lvl 2)
 21 :moneybag:
-45 :star:
+50 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 
