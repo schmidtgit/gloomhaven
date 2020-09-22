@@ -13,13 +13,14 @@
 
 
 ### Spellweaver - Caytlynn (lvl 7)
-131 :moneybag:
+104 :moneybag:
 383 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
+- [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
