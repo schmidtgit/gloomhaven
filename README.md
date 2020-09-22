@@ -1,6 +1,6 @@
 # Gloomhaven
-- 13 :crown: Reputation
-- -3 :convenience_store: SHOP DISCOUNT
+- 15 :crown: Reputation
+- -4 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
 - City Rule: Militaristic
@@ -8,6 +8,7 @@
 - The Power of Enhancement
 - Ancient Technology 2/5
 - Artifact Recovered
+- Waterbreathing
 - *First Steps*
 - *A Demon's Errant*
 
@@ -24,7 +25,7 @@
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
-### Cragheart - Rune (lvl 6)
+### Cragheart - Rune (lvl 7)
 37 :moneybag:
 369 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
