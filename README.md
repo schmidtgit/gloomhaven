@@ -25,8 +25,8 @@
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
-### Cragheart - Rune (lvl 7)
-45 :moneybag:
+### Cragheart - Rune (lvl 7) :pray:
+25 :moneybag:
 390 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
