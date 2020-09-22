@@ -13,9 +13,9 @@
 - *A Demon's Errant*
 
 
-### Spellweaver - Caytlynn (lvl 7)
-124 :moneybag:
-408 :star:
+### Spellweaver - Caytlynn (lvl 8)
+136 :moneybag:
+425 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
@@ -26,8 +26,8 @@
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
 ### Cragheart - Rune (lvl 7)
-39 :moneybag:
-369 :star:
+45 :moneybag:
+390 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
@@ -35,16 +35,16 @@
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 
-### Beast Tyrant - Rotten (lvl 4)
+### Beast Tyrant - Rotten (lvl 5)
 29 :moneybag:
-186 :star:
+217 :star:
 - [#002](https://gloomhavendb.com/items/2) Winged Shoes
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 
-### Summoner - Else-Marie (lvl 2)
-12 :moneybag:
-77 :star:
+### Summoner - Else-Marie (lvl 3)
+39 :moneybag:
+100 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
