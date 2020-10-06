@@ -11,6 +11,7 @@
 - Waterbreathing
 - *First Steps*
 - *A Demon's Errant*
+- *A Map to Treasure*
 
 
 ### Spellweaver - Caytlynn (lvl 8)
@@ -26,7 +27,7 @@
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
 ### Cragheart - Rune (lvl 7) :pray:
-31 :moneybag:
+6 :moneybag:
 409 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
