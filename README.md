@@ -27,14 +27,13 @@
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
 ### Beast Tyrant - Rotten (lvl 5)
-41 :moneybag:
-259 :star:
-- [#002](https://gloomhavendb.com/items/2) Winged Shoes
-- [#007](https://gloomhavendb.com/items/7) Iron Helmet
-- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
-
-### Summoner - Else-Marie (lvl 3)
 15 :moneybag:
+259 :star:
+- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
+- [#017](https://gloomhavendb.com/items/17) Empowering Talisman
+
+### Summoner - Else-Marie (lvl 3) :pray:
+5 :moneybag:
 147 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
