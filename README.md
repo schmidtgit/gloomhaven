@@ -14,9 +14,9 @@
 - *A Map to Treasure*
 
 
-### Spellweaver - Caytlynn (lvl 8) :pray:
-12 :moneybag:
-461 :star:
+### Spellweaver - Caytlynn (lvl 8)
+24 :moneybag:
+500 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
@@ -26,23 +26,23 @@
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
-### Beast Tyrant - Rotten (lvl 5)
-5 :moneybag:
-259 :star:
+### Beast Tyrant - Rotten (lvl 6)
+32 :moneybag:
+288 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 
-### Summoner - Else-Marie (lvl 3) :pray:
-5 :moneybag:
-147 :star:
+### Summoner - Else-Marie (lvl 4)
+11 :moneybag:
+181 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#021](https://gloomhavendb.com/items/21) Stun Powder
 
 ### Mindthief - Unknown (lvl 3)
-26 :moneybag:
-95 :star:
+41 :moneybag:
+130 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
@@ -84,4 +84,4 @@
 - [ ] 76 Harrower Hive :muscle:
 - [ ] 81 Temple of the Eclipse
 - [ ] 82 Burning Mountain :gift:
-- [ ] 93 Sunken Vessel :gift:
+- [x] 93 Sunken Vessel :gift:
