@@ -1,5 +1,5 @@
 # Gloomhaven
-- 15 :crown: Reputation
+- 16 :crown: Reputation
 - -4 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
@@ -15,8 +15,8 @@
 
 
 ### Spellweaver - Caytlynn (lvl 8)
-13 :moneybag:
-445 :star:
+22 :moneybag:
+461 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
@@ -26,9 +26,9 @@
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
-### Cragheart - Rune (lvl 7) :pray:
+### Cragheart - Rune (lvl 8) :pray:
 6 :moneybag:
-409 :star:
+428 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#003](https://gloomhavendb.com/items/3) Hide Armor
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
@@ -38,14 +38,14 @@
 
 ### Beast Tyrant - Rotten (lvl 5)
 41 :moneybag:
-238 :star:
+259 :star:
 - [#002](https://gloomhavendb.com/items/2) Winged Shoes
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 
 ### Summoner - Else-Marie (lvl 3)
-12 :moneybag:
-123 :star:
+15 :moneybag:
+147 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
@@ -81,7 +81,7 @@
 - [ ] 36 Gloomhaven Battlements B
 - [x] 43 Drake Nest
 - [x] 59 Forgotten Grove
-- [ ] 60 Alchemy Lab
+- [x] 60 Alchemy Lab
 - [x] 65 Sulfur Mine 
 - [x] 66 Clockwork Cove :gift:
 - [ ] 76 Harrower Hive :muscle:
