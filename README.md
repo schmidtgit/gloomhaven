@@ -26,16 +26,6 @@
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
-### Cragheart - Rune (lvl 8) :pray:
-6 :moneybag:
-428 :star:
-- [#001](https://gloomhavendb.com/items/1) Boots of Striding
-- [#003](https://gloomhavendb.com/items/3) Hide Armor
-- [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
-- [#009](https://gloomhavendb.com/items/9) Piercing Bow
-- [#014](https://gloomhavendb.com/items/14) Minor Power Potion
-- [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
-
 ### Beast Tyrant - Rotten (lvl 5)
 41 :moneybag:
 259 :star:
@@ -50,6 +40,10 @@
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#021](https://gloomhavendb.com/items/21) Stun Powder
+
+### Mindthief - Unknown (lvl 3)
+60 :moneybag:
+95 :star:
 
 [![Gloomhaven Shop](https://i.redd.it/kd95z4czz7511.jpg)](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5IjoyLCJpdGVtIjpbMTIzLDQ1LDExMiw3NSw4OV0sIml0ZW1zSW5Vc2UiOnsiMSI6MSwiMiI6MSwiMyI6MSwiNSI6MywiNiI6MywiNyI6MSwiOSI6MywiMTMiOjcsIjE0IjozLCIxNSI6MywiMjAiOjMsIjEyMyI6MX0sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJpbWFnZXMiLCJlbmFibGVTdG9yZVN0b2NrTWFuYWdlbWVudCI6dHJ1ZSwibG9ja1Nwb2lsZXJQYW5lbCI6dHJ1ZX0=)
 
