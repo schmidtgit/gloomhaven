@@ -15,7 +15,7 @@
 
 
 ### Spellweaver - Caytlynn (lvl 8)
-163 :moneybag:
+13 :moneybag:
 445 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
