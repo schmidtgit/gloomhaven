@@ -44,11 +44,12 @@
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 
 ### Summoner - Else-Marie (lvl 3)
-38 :moneybag:
+12 :moneybag:
 123 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
+- [#021](https://gloomhavendb.com/items/21) Stun Powder
 
 [![Gloomhaven Shop](https://i.redd.it/kd95z4czz7511.jpg)](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5IjoyLCJpdGVtIjpbMTIzLDQ1LDExMiw3NSw4OV0sIml0ZW1zSW5Vc2UiOnsiMSI6MSwiMiI6MSwiMyI6MSwiNSI6MywiNiI6MywiNyI6MSwiOSI6MywiMTMiOjcsIjE0IjozLCIxNSI6MywiMjAiOjMsIjEyMyI6MX0sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJpbWFnZXMiLCJlbmFibGVTdG9yZVN0b2NrTWFuYWdlbWVudCI6dHJ1ZSwibG9ja1Nwb2lsZXJQYW5lbCI6dHJ1ZX0=)
 
