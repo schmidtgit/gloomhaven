@@ -13,11 +13,12 @@
 - *A Demon's Errant*
 - *A Map to Treasure*
 - *Following Clues*
+- *Stonebreakers Censer*
 
 
 ### Spellweaver - Caytlynn (lvl 9) :pray:
-36 :moneybag:
-515 :star:
+59 :moneybag:
+535 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
@@ -28,14 +29,14 @@
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
 ### Beast Tyrant - Rotten (lvl 6) :pray:
-29 :moneybag:
-317 :star:
+35 :moneybag:
+337 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 
 ### Summoner - Else-Marie (lvl 4) :pray:
-14 :moneybag:
-203 :star:
+23 :moneybag:
+225 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
@@ -43,7 +44,7 @@
 
 ### Mindthief - Unknown (lvl 4) :pray:
 37 :moneybag:
-150 :star:
+169 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
@@ -67,7 +68,7 @@
 - [x] 15 Shrine of Strength 
 - [ ] 16 Mountain Pass
 - [x] 18 Abandoned Sewers 
-- [ ] 19 Forgotten Crypt
+- [x] 19 Forgotten Crypt
 - [x] 20 Necromancer's Sanctum 
 - [x] 21 Infernal Throne
 - [x] 22 Temple of The Elements
