@@ -37,7 +37,7 @@
 75 :moneybag:
 150 :star:
 
-[![Gloomhaven Shop](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5Ijo0LCJpdGVtIjpbMTIzLDQ1LDExMiw3NSw4OV0sIml0ZW1zSW5Vc2UiOnsiMyI6MSwiNSI6MywiNiI6MywiNyI6MSwiOSI6MywiMTMiOjcsIjE0IjozLCIxNSI6MywiMjAiOjMsIjEyMyI6MX0sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJpbWFnZXMiLCJlbmFibGVTdG9yZVN0b2NrTWFuYWdlbWVudCI6ZmFsc2UsImxvY2tTcG9pbGVyUGFuZWwiOnRydWV9)
+[![Gloomhaven Shop](https://i.redd.it/kd95z4czz7511.jpg)](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5Ijo0LCJpdGVtIjpbMTIzLDQ1LDExMiw3NSw4OV0sIml0ZW1zSW5Vc2UiOnsiMyI6MSwiNSI6MywiNiI6MywiNyI6MSwiOSI6MywiMTMiOjcsIjE0IjozLCIxNSI6MywiMjAiOjMsIjEyMyI6MX0sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJpbWFnZXMiLCJlbmFibGVTdG9yZVN0b2NrTWFuYWdlbWVudCI6ZmFsc2UsImxvY2tTcG9pbGVyUGFuZWwiOnRydWV9)
 
 # Scenarios
 - [x] 1 Black Barrow 
@@ -70,6 +70,7 @@
 - [x] 60 Alchemy Lab
 - [x] 65 Sulfur Mine 
 - [x] 66 Clockwork Cove :gift:
+- [ ] 72 Oozing Grove :classic_building:
 - [ ] 76 Harrower Hive :muscle:
 - [ ] 81 Temple of the Eclipse
 - [ ] 82 Burning Mountain :gift:
