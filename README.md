@@ -15,32 +15,11 @@
 - *Following Clues*
 - *Stonebreakers Censer*
 
-
-### Spellweaver - Caytlynn (lvl 9) :pray:
-59 :moneybag:
-535 :star:
-- [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
-- [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
-- [#009](https://gloomhavendb.com/items/9) Piercing Bow
-- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
-- [#014](https://gloomhavendb.com/items/14) Minor Power Potion
-- [#015](https://gloomhavendb.com/items/15) Boots of Speed
-- [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
-- [#123](https://gloomhavendb.com/items/123) Ring of Skulls
-
 ### Beast Tyrant - Rotten (lvl 6) :pray:
 35 :moneybag:
 337 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
-
-### Summoner - Else-Marie (lvl 4) :pray:
-23 :moneybag:
-225 :star:
-- [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
-- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
-- [#015](https://gloomhavendb.com/items/15) Boots of Speed
-- [#021](https://gloomhavendb.com/items/21) Stun Powder
 
 ### Mindthief - Unknown (lvl 4) :pray:
 37 :moneybag:
@@ -49,6 +28,14 @@
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
 - [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
+
+### Elementalist - (lvl 4)
+75 :moneybag:
+150 :star:
+
+### Soothsinger - (lvl 4)
+75 :moneybag:
+150 :star:
 
 [![Gloomhaven Shop](https://i.redd.it/kd95z4czz7511.jpg)](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5IjoyLCJpdGVtIjpbMTIzLDQ1LDExMiw3NSw4OV0sIml0ZW1zSW5Vc2UiOnsiMSI6MSwiMiI6MSwiMyI6MSwiNSI6MywiNiI6MywiNyI6MSwiOSI6MywiMTMiOjcsIjE0IjozLCIxNSI6MywiMjAiOjMsIjEyMyI6MX0sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJpbWFnZXMiLCJlbmFibGVTdG9yZVN0b2NrTWFuYWdlbWVudCI6dHJ1ZSwibG9ja1Nwb2lsZXJQYW5lbCI6dHJ1ZX0=)
 
