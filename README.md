@@ -42,12 +42,12 @@
 - [#021](https://gloomhavendb.com/items/21) Stun Powder
 
 ### Mindthief - Unknown (lvl 4) :pray:
-53 :moneybag:
-147 :star:
-- [#001](https://gloomhavendb.com/items/1) Boots of Striding
+37 :moneybag:
+150 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
+- [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
 
 [![Gloomhaven Shop](https://i.redd.it/kd95z4czz7511.jpg)](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5IjoyLCJpdGVtIjpbMTIzLDQ1LDExMiw3NSw4OV0sIml0ZW1zSW5Vc2UiOnsiMSI6MSwiMiI6MSwiMyI6MSwiNSI6MywiNiI6MywiNyI6MSwiOSI6MywiMTMiOjcsIjE0IjozLCIxNSI6MywiMjAiOjMsIjEyMyI6MX0sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJpbWFnZXMiLCJlbmFibGVTdG9yZVN0b2NrTWFuYWdlbWVudCI6dHJ1ZSwibG9ja1Nwb2lsZXJQYW5lbCI6dHJ1ZX0=)
 
