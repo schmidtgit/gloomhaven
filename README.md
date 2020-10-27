@@ -16,7 +16,7 @@
 
 
 ### Spellweaver - Caytlynn (lvl 9) :pray:
-46 :moneybag:
+36 :moneybag:
 515 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
@@ -28,21 +28,21 @@
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
 ### Beast Tyrant - Rotten (lvl 6) :pray:
-39 :moneybag:
+29 :moneybag:
 317 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 
 ### Summoner - Else-Marie (lvl 4) :pray:
-24 :moneybag:
+14 :moneybag:
 203 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#021](https://gloomhavendb.com/items/21) Stun Powder
 
-### Mindthief - Unknown (lvl 3) :pray:
-63 :moneybag:
+### Mindthief - Unknown (lvl 4) :pray:
+53 :moneybag:
 147 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
