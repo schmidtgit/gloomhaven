@@ -1,5 +1,5 @@
 # Gloomhaven
-- 16 :crown: Reputation
+- 17 :crown: Reputation
 - -4 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
@@ -12,11 +12,12 @@
 - *First Steps*
 - *A Demon's Errant*
 - *A Map to Treasure*
+- *Following Clues*
 
 
-### Spellweaver - Caytlynn (lvl 8) :pray:
-21 :moneybag:
-500 :star:
+### Spellweaver - Caytlynn (lvl 9) :pray:
+46 :moneybag:
+515 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#006](https://gloomhavendb.com/items/6) Eagle-Eye Goggles
 - [#009](https://gloomhavendb.com/items/9) Piercing Bow
@@ -27,22 +28,22 @@
 - [#123](https://gloomhavendb.com/items/123) Ring of Skulls
 
 ### Beast Tyrant - Rotten (lvl 6) :pray:
-29 :moneybag:
-288 :star:
+39 :moneybag:
+317 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 
 ### Summoner - Else-Marie (lvl 4) :pray:
-8 :moneybag:
-181 :star:
+24 :moneybag:
+203 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#021](https://gloomhavendb.com/items/21) Stun Powder
 
 ### Mindthief - Unknown (lvl 3) :pray:
-38 :moneybag:
-130 :star:
+63 :moneybag:
+147 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
@@ -71,7 +72,7 @@
 - [x] 21 Infernal Throne
 - [x] 22 Temple of The Elements
 - [ ] 23 Deep Ruins
-- [ ] 26 Ancient Cistern
+- [x] 26 Ancient Cistern
 - [ ] 28 Outer Ritual Chamber :lock:
 - [ ] 31 Plane of Night
 - [ ] 35 Gloomhaven Battlements A
