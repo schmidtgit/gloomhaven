@@ -15,30 +15,30 @@
 - *Following Clues*
 - *Stonebreakers Censer*
 
-### Beast Tyrant - Rotten (lvl 6) :pray:
-35 :moneybag:
-337 :star:
+### Beast Tyrant - Rotten (lvl 7)
+46 :moneybag:
+362 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 
-### Mindthief - Yodaah (lvl 4) :pray:
-37 :moneybag:
-169 :star:
+### Mindthief - Yodaah (lvl 4)
+60 :moneybag:
+190 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
 - [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
 
 ### Elementalist - Christian (lvl 4)
-47 :moneybag:
-150 :star:
+67 :moneybag:
+171 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 
 ### Soothsinger - Dandelion (lvl 4)
-37 :moneybag:
-150 :star:
+51 :moneybag:
+179 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
@@ -68,7 +68,7 @@
 - [ ] 23 Deep Ruins
 - [x] 26 Ancient Cistern
 - [ ] 28 Outer Ritual Chamber :lock:
-- [ ] 31 Plane of Night
+- [x] 31 Plane of Night
 - [ ] 35 Gloomhaven Battlements A
 - [ ] 36 Gloomhaven Battlements B
 - [x] 43 Drake Nest
