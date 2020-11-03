@@ -14,6 +14,7 @@
 - *A Map to Treasure*
 - *Following Clues*
 - *Stonebreakers Censer*
+- *Bad Business*
 
 ### Beast Tyrant - Rotten (lvl 7)
 46 :moneybag:
