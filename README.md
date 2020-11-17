@@ -23,12 +23,14 @@
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 
 ### Mindthief - Yodaah (lvl 4)
-60 :moneybag:
+28 :moneybag:
 190 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
+- [#025](https://gloomhavendb.com/items/25) Jagged Sword
 - [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
+- [#030](https://gloomhavendb.com/items/30) Studded Leather
 
 ### Elementalist - Christian (lvl 4)
 67 :moneybag:
@@ -77,7 +79,7 @@
 - [x] 60 Alchemy Lab
 - [x] 65 Sulfur Mine 
 - [x] 66 Clockwork Cove :gift:
-- [ ] 72 Oozing Grove :classic_building:
+- [ ] 72 Oozing Grove
 - [ ] 76 Harrower Hive :muscle:
 - [ ] 81 Temple of the Eclipse
 - [ ] 82 Burning Mountain :gift:
