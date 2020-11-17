@@ -31,7 +31,7 @@
 - [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
 - [#030](https://gloomhavendb.com/items/30) Studded Leather
 
-### Elementalist - Christian (lvl 4)
+### Elementalist - Christian (lvl 4) :pray:
 86 :moneybag:
 187 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
