@@ -1,6 +1,6 @@
 # Gloomhaven
-- 17 :crown: Reputation
-- -4 :convenience_store: SHOP DISCOUNT
+- 21 :crown: Reputation
+- -5 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
 - City Rule: Militaristic
@@ -10,21 +10,20 @@
 - Artifact Recovered
 - Waterbreathing
 - *First Steps*
-- *A Demon's Errant*
 - *A Map to Treasure*
 - *Following Clues*
 - *Stonebreakers Censer*
 - *Bad Business*
 
 ### Beast Tyrant - Rotten (lvl 7)
-46 :moneybag:
-362 :star:
+56 :moneybag:
+386 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 
 ### Mindthief - Yodaah (lvl 4)
-28 :moneybag:
-190 :star:
+44 :moneybag:
+209 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
@@ -33,18 +32,19 @@
 - [#030](https://gloomhavendb.com/items/30) Studded Leather
 
 ### Elementalist - Christian (lvl 4)
-67 :moneybag:
-171 :star:
+86 :moneybag:
+187 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 
 ### Soothsinger - Dandelion (lvl 4)
-51 :moneybag:
-179 :star:
+61 :moneybag:
+198 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
+- [#032](https://gloomhavendb.com/items/32) Tower Shield
 
 [![Gloomhaven Shop](https://i.redd.it/kd95z4czz7511.jpg)](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5Ijo0LCJpdGVtIjpbMTIzLDQ1LDExMiw3NSw4OV0sIml0ZW1zSW5Vc2UiOnsiMyI6MSwiNSI6MywiNiI6MywiNyI6MSwiOSI6MywiMTMiOjcsIjE0IjozLCIxNSI6MywiMjAiOjMsIjEyMyI6MX0sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJpbWFnZXMiLCJlbmFibGVTdG9yZVN0b2NrTWFuYWdlbWVudCI6ZmFsc2UsImxvY2tTcG9pbGVyUGFuZWwiOnRydWV9)
 
@@ -70,10 +70,10 @@
 - [x] 22 Temple of The Elements
 - [ ] 23 Deep Ruins
 - [x] 26 Ancient Cistern
-- [ ] 28 Outer Ritual Chamber :lock:
+- [ ] 28 Outer Ritual Chamber
 - [x] 31 Plane of Night
-- [ ] 35 Gloomhaven Battlements A
-- [ ] 36 Gloomhaven Battlements B
+- [ ] ~~35 Gloomhaven Battlements A~~
+- [x] 36 Gloomhaven Battlements B
 - [x] 43 Drake Nest
 - [x] 59 Forgotten Grove
 - [x] 60 Alchemy Lab
