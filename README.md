@@ -17,7 +17,7 @@
 - *Through the Trench*
 
 ### Beast Tyrant - Rotten (lvl 7)
-21 :moneybag:
+30 :moneybag:
 410 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
@@ -26,7 +26,7 @@
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 5)
-44 :moneybag:
+47 :moneybag:
 230 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
@@ -36,14 +36,14 @@
 - [#030](https://gloomhavendb.com/items/30) Studded Leather
 
 ### Elementalist - Christian (lvl 5)
-86 :moneybag:
+95 :moneybag:
 210 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 
 ### Soothsinger - Dandelion (lvl 5)
-61 :moneybag:
+64 :moneybag:
 225 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
