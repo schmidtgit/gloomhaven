@@ -1,5 +1,5 @@
 # Gloomhaven
-- 21 :crown: Reputation
+- 22 :crown: Reputation
 - -5 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
@@ -16,10 +16,13 @@
 - *Bad Business*
 
 ### Beast Tyrant - Rotten (lvl 7)
-56 :moneybag:
+21 :moneybag:
 386 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
+- [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
+- [#100](https://gloomhavendb.com/items/100) Robes of Summoning
+- [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 4)
 44 :moneybag:
