@@ -26,28 +26,30 @@
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 5)
-47 :moneybag:
+42 :moneybag:
 230 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
-- [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
+- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
+- [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 - [#025](https://gloomhavendb.com/items/25) Jagged Sword
 - [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
 - [#030](https://gloomhavendb.com/items/30) Studded Leather
 
 ### Elementalist - Christian (lvl 5)
-95 :moneybag:
+70 :moneybag:
 210 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
-- [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
+- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
+- [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
 ### Soothsinger - Dandelion (lvl 5)
 64 :moneybag:
 225 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
-- [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
+- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#032](https://gloomhavendb.com/items/32) Tower Shield
 
 [![Gloomhaven Shop](https://i.redd.it/kd95z4czz7511.jpg)](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5Ijo0LCJpdGVtIjpbMTIzLDQ1LDExMiw3NSw4OV0sIml0ZW1zSW5Vc2UiOnsiMyI6MSwiNSI6MywiNiI6MywiNyI6MSwiOSI6MywiMTMiOjcsIjE0IjozLCIxNSI6MywiMjAiOjMsIjEyMyI6MX0sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJpbWFnZXMiLCJlbmFibGVTdG9yZVN0b2NrTWFuYWdlbWVudCI6ZmFsc2UsImxvY2tTcG9pbGVyUGFuZWwiOnRydWV9)
