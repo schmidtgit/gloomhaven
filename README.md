@@ -7,6 +7,7 @@
 - The Merchant Flees
 - The Power of Enhancement
 - Ancient Technology 2/5
+- End of Corruption 1/5
 - Artifact Recovered
 - Waterbreathing
 - *First Steps*
@@ -18,7 +19,7 @@
 
 ### Beast Tyrant - Rotten (lvl 7)
 30 :moneybag:
-410 :star:
+428 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
@@ -26,8 +27,8 @@
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 5)
-42 :moneybag:
-230 :star:
+45 :moneybag:
+246 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -37,16 +38,16 @@
 - [#030](https://gloomhavendb.com/items/30) Studded Leather
 
 ### Elementalist - Christian (lvl 5)
-70 :moneybag:
-210 :star:
+76 :moneybag:
+225 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
 ### Soothsinger - Dandelion (lvl 5)
-64 :moneybag:
-225 :star:
+97 :moneybag:
+244 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -83,7 +84,8 @@
 - [x] 36 Gloomhaven Battlements B
 - [x] 37 Doom Trench
 - [x] 43 Drake Nest
-- [ ] 47 Lair of the Unseeing Eye
+- [x] 47 Lair of the Unseeing Eye
+- [ ] 51 The Void
 - [x] 59 Forgotten Grove
 - [x] 60 Alchemy Lab
 - [x] 65 Sulfur Mine 
