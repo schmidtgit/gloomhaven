@@ -14,19 +14,20 @@
 - *Following Clues*
 - *Stonebreakers Censer*
 - *Bad Business*
+- *Through the Trench*
 
 ### Beast Tyrant - Rotten (lvl 7)
 21 :moneybag:
-386 :star:
+410 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 - [#100](https://gloomhavendb.com/items/100) Robes of Summoning
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
-### Mindthief - Yodaah (lvl 4)
+### Mindthief - Yodaah (lvl 5)
 44 :moneybag:
-209 :star:
+230 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
@@ -34,16 +35,16 @@
 - [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
 - [#030](https://gloomhavendb.com/items/30) Studded Leather
 
-### Elementalist - Christian (lvl 4) :pray:
+### Elementalist - Christian (lvl 5)
 86 :moneybag:
-187 :star:
+210 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 
-### Soothsinger - Dandelion (lvl 4)
+### Soothsinger - Dandelion (lvl 5)
 61 :moneybag:
-198 :star:
+225 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#014](https://gloomhavendb.com/items/14) Minor Stamina Potion
@@ -66,6 +67,7 @@
 - [x] 14 Frozen Hollow 
 - [x] 15 Shrine of Strength 
 - [ ] 16 Mountain Pass
+- [ ] 17 Lost Island
 - [x] 18 Abandoned Sewers 
 - [x] 19 Forgotten Crypt
 - [x] 20 Necromancer's Sanctum 
@@ -77,7 +79,9 @@
 - [x] 31 Plane of Night
 - [ ] ~~35 Gloomhaven Battlements A~~
 - [x] 36 Gloomhaven Battlements B
+- [x] 37 Doom Trench
 - [x] 43 Drake Nest
+- [ ] 47 Lair of the Unseeing Eye
 - [x] 59 Forgotten Grove
 - [x] 60 Alchemy Lab
 - [x] 65 Sulfur Mine 
