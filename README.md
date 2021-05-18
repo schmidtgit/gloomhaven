@@ -19,7 +19,7 @@
 - *Redthorn's Aid*
 
 ### Beast Tyrant - Rotten (lvl 8)
-37 :moneybag:
+42 :moneybag:
 470 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
@@ -28,7 +28,7 @@
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 6)
-78 :moneybag:
+83 :moneybag:
 287 :star:
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
@@ -39,7 +39,7 @@
 - [#030](https://gloomhavendb.com/items/30) Studded Leather
 
 ### Elementalist - Christian (lvl 5)
-101 :moneybag:
+106 :moneybag:
 271 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -47,7 +47,7 @@
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
 ### Soothsinger - Dandelion (lvl 6)
-140 :moneybag:
+145 :moneybag:
 299 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
