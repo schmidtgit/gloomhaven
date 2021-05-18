@@ -1,5 +1,5 @@
 # Gloomhaven
-- 23 :crown: Reputation
+- 25 :crown: Reputation
 - -5 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
@@ -19,8 +19,8 @@
 - *Redthorn's Aid*
 
 ### Beast Tyrant - Rotten (lvl 8)
-2 :moneybag:
-470 :star:
+10 :moneybag:
+493 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
@@ -30,8 +30,8 @@
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 6)
-18 :moneybag:
-287 :star:
+44 :moneybag:
+308 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
@@ -43,9 +43,9 @@
 - [#033](https://gloomhavendb.com/items/33) Volatile Bomb
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
-### Elementalist - Christian (lvl 5)
-86 :moneybag:
-271 :star:
+### Elementalist - Christian (lvl 6)
+110 :moneybag:
+297 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
@@ -53,8 +53,8 @@
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 
 ### Soothsinger - Dandelion (lvl 6)
-145 :moneybag:
-299 :star:
+157 :moneybag:
+329 :star:
 - [#001](https://gloomhavendb.com/items/1) Boots of Striding
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -92,7 +92,7 @@
 - [x] 37 Doom Trench
 - [x] 38 Slave Pens
 - [x] 43 Drake Nest
-- [ ] 44 Tribal Assault
+- [x] 44 Tribal Assault
 - [ ] 48 Shadow Weald
 - [x] 47 Lair of the Unseeing Eye
 - [ ] 51 The Void
