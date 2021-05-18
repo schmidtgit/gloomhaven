@@ -19,32 +19,38 @@
 - *Redthorn's Aid*
 
 ### Beast Tyrant - Rotten (lvl 8)
-42 :moneybag:
+2 :moneybag:
 470 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
+- [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
+- [#028](https://gloomhavendb.com/items/28) Moon Earring
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 - [#100](https://gloomhavendb.com/items/100) Robes of Summoning
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 6)
-83 :moneybag:
+18 :moneybag:
 287 :star:
-- [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
+- [#016](https://gloomhavendb.com/items/16) Cloak of Pockets
+- [#021](https://gloomhavendb.com/items/21) Stun Powder
 - [#025](https://gloomhavendb.com/items/25) Jagged Sword
 - [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
-- [#030](https://gloomhavendb.com/items/30) Studded Leather
+- [#031](https://gloomhavendb.com/items/31) Hawk Helm
+- [#033](https://gloomhavendb.com/items/33) Volatile Bomb
+- [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
 ### Elementalist - Christian (lvl 5)
-106 :moneybag:
+86 :moneybag:
 271 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
+- [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 
 ### Soothsinger - Dandelion (lvl 6)
 145 :moneybag:
