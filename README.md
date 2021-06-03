@@ -7,7 +7,7 @@
 - The Merchant Flees
 - The Power of Enhancement
 - Ancient Technology 2/5
-- End of Corruption 1/5
+- End of Corruption 2/5
 - Artifact Recovered
 - Waterbreathing
 - *First Steps*
@@ -19,8 +19,8 @@
 - *Redthorn's Aid*
 
 ### Beast Tyrant - Rotten (lvl 9)
-10 :moneybag:
-504 :star:
+19 :moneybag:
+527 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
@@ -30,8 +30,8 @@
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 6)
-44 :moneybag:
-308 :star:
+50 :moneybag:
+331 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
@@ -44,8 +44,8 @@
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
 ### Elementalist - Joe (lvl 6)
-116 :moneybag:
-307 :star:
+122 :moneybag:
+323 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
@@ -54,7 +54,7 @@
 
 ### Quartermaster - Sigurd (lvl 4)
 0 :moneybag:
-155 :star:
+170 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -92,7 +92,7 @@
 - [x] 38 Slave Pens
 - [x] 43 Drake Nest
 - [x] 44 Tribal Assault
-- [ ] 48 Shadow Weald
+- [x] 48 Shadow Weald
 - [x] 47 Lair of the Unseeing Eye
 - [ ] 51 The Void
 - [x] 59 Forgotten Grove
