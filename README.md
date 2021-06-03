@@ -52,15 +52,12 @@
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 
-### Soothsinger - Dandelion (lvl 6)
-157 :moneybag:
-329 :star:
-- [#001](https://gloomhavendb.com/items/1) Boots of Striding
+### Quartermaster - Sigurd (lvl 4)
+15 :moneybag:
+150 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
-- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
-- [#032](https://gloomhavendb.com/items/32) Tower Shield
-
-[![Gloomhaven Shop](https://i.redd.it/kd95z4czz7511.jpg)](https://heisch.github.io/gloomhaven-item-db/#eyJhbGwiOmZhbHNlLCJwcm9zcGVyaXR5Ijo0LCJpdGVtIjpbMTIzLDQ1LDExMiw3NSw4OV0sIml0ZW1zSW5Vc2UiOnsiMyI6MSwiNSI6MywiNiI6MywiNyI6MSwiOSI6MywiMTMiOjcsIjE0IjozLCIxNSI6MywiMjAiOjMsIjEyMyI6MX0sInNvbG9DbGFzcyI6W10sImRpc2NvdW50IjowLCJkaXNwbGF5QXMiOiJpbWFnZXMiLCJlbmFibGVTdG9yZVN0b2NrTWFuYWdlbWVudCI6ZmFsc2UsImxvY2tTcG9pbGVyUGFuZWwiOnRydWV9)
+- [#014](https://gloomhavendb.com/items/14) Minor Power Potion
+- [#027](https://gloomhavendb.com/items/27) Major Healing Potion
 
 # Scenarios
 - [x] 1 Black Barrow 
