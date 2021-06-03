@@ -18,9 +18,9 @@
 - *Through the Trench*
 - *Redthorn's Aid*
 
-### Beast Tyrant - Rotten (lvl 8)
+### Beast Tyrant - Rotten (lvl 9)
 10 :moneybag:
-493 :star:
+504 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
@@ -43,9 +43,9 @@
 - [#033](https://gloomhavendb.com/items/33) Volatile Bomb
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
-### Elementalist - Christian (lvl 6)
-110 :moneybag:
-297 :star:
+### Elementalist - Joe (lvl 6)
+116 :moneybag:
+307 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
@@ -53,8 +53,8 @@
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 
 ### Quartermaster - Sigurd (lvl 4)
-15 :moneybag:
-150 :star:
+30 :moneybag:
+155 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 - [#027](https://gloomhavendb.com/items/27) Major Healing Potion
