@@ -53,9 +53,11 @@
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 
 ### Quartermaster - Sigurd (lvl 4)
-30 :moneybag:
+0 :moneybag:
 155 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
+- [#010](https://gloomhavendb.com/items/10) War Hammer
+- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 - [#027](https://gloomhavendb.com/items/27) Major Healing Potion
 
