@@ -29,8 +29,8 @@
 - [#100](https://gloomhavendb.com/items/100) Robes of Summoning
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
-### Mindthief - Yodaah (lvl 6)
-50 :moneybag:
+### Mindthief - Yodaah (lvl 6) :pray:
+40 :moneybag:
 331 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -43,8 +43,8 @@
 - [#033](https://gloomhavendb.com/items/33) Volatile Bomb
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
-### Elementalist - Joe (lvl 6)
-122 :moneybag:
+### Elementalist - Joe (lvl 6) :pray:
+112 :moneybag:
 323 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
