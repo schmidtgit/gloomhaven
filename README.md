@@ -101,4 +101,5 @@
 - [ ] 76 Harrower Hive :muscle:
 - [ ] 81 Temple of the Eclipse
 - [ ] 82 Burning Mountain :gift:
+- [x] 90 Demonic Rift :gift:
 - [x] 93 Sunken Vessel :gift:
