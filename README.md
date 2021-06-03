@@ -1,5 +1,5 @@
 # Gloomhaven
-- 23 :crown: Reputation
+- 22 :crown: Reputation
 - -5 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
