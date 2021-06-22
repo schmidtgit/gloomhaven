@@ -19,8 +19,8 @@
 - *Redthorn's Aid*
 
 ### Beast Tyrant - Rotten (lvl 9)
-19 :moneybag:
-527 :star:
+48 :moneybag:
+556 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
@@ -29,9 +29,9 @@
 - [#100](https://gloomhavendb.com/items/100) Robes of Summoning
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
-### Mindthief - Yodaah (lvl 6) :pray:
-40 :moneybag:
-331 :star:
+### Mindthief - Yodaah (lvl 7)
+101 :moneybag:
+357 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
@@ -43,9 +43,9 @@
 - [#033](https://gloomhavendb.com/items/33) Volatile Bomb
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
-### Elementalist - Joe (lvl 6) :pray:
-112 :moneybag:
-323 :star:
+### Elementalist - Joe (lvl 6)
+161 :moneybag:
+341 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
@@ -53,8 +53,8 @@
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 
 ### Quartermaster - Sigurd (lvl 4)
-0 :moneybag:
-170 :star:
+77 :moneybag:
+191 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -76,7 +76,7 @@
 - [x] 14 Frozen Hollow 
 - [x] 15 Shrine of Strength 
 - [ ] 16 Mountain Pass
-- [ ] 17 Lost Island
+- [x] 17 Lost Island
 - [x] 18 Abandoned Sewers 
 - [x] 19 Forgotten Crypt
 - [x] 20 Necromancer's Sanctum 
@@ -99,6 +99,7 @@
 - [x] 60 Alchemy Lab
 - [x] 65 Sulfur Mine 
 - [x] 66 Clockwork Cove :gift:
+- [ ] 71 Windswept Highlands :gift:
 - [ ] 72 Oozing Grove
 - [ ] 76 Harrower Hive :muscle:
 - [ ] 81 Temple of the Eclipse
