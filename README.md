@@ -30,14 +30,13 @@
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 7)
-101 :moneybag:
+111 :moneybag:
 357 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 - [#016](https://gloomhavendb.com/items/16) Cloak of Pockets
 - [#021](https://gloomhavendb.com/items/21) Stun Powder
-- [#025](https://gloomhavendb.com/items/25) Jagged Sword
 - [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
 - [#031](https://gloomhavendb.com/items/31) Hawk Helm
 - [#033](https://gloomhavendb.com/items/33) Volatile Bomb
