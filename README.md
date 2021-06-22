@@ -95,6 +95,7 @@
 - [x] 48 Shadow Weald
 - [x] 47 Lair of the Unseeing Eye
 - [ ] 51 The Void
+- [ ] 57 Investigation
 - [x] 59 Forgotten Grove
 - [x] 60 Alchemy Lab
 - [x] 65 Sulfur Mine 
