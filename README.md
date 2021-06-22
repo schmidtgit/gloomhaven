@@ -19,7 +19,7 @@
 - *Redthorn's Aid*
 
 ### Beast Tyrant - Rotten (lvl 9)
-57 :moneybag:
+53 :moneybag:
 556 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
@@ -30,7 +30,7 @@
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Mindthief - Yodaah (lvl 7)
-120 :moneybag:
+116 :moneybag:
 357 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -43,7 +43,7 @@
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
 ### Elementalist - Joe (lvl 6)
-170 :moneybag:
+166 :moneybag:
 341 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -52,7 +52,7 @@
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 
 ### Quartermaster - Sigurd (lvl 4)
-88 :moneybag:
+84 :moneybag:
 191 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
