@@ -1,5 +1,5 @@
 # Gloomhaven
-- 21 :crown: Reputation
+- 22 :crown: Reputation
 - -5 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
@@ -29,9 +29,9 @@
 - [#100](https://gloomhavendb.com/items/100) Robes of Summoning
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
-### Mindthief - Yodaah (lvl 7)
-116 :moneybag:
-357 :star:
+### Doomstalker - Doomguy (lvl 5)
+90 :moneybag:
+210 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
@@ -101,6 +101,7 @@
 - [x] 60 Alchemy Lab
 - [x] 65 Sulfur Mine 
 - [x] 66 Clockwork Cove :gift:
+- [ ] 67 Arcane Library :gift:
 - [ ] 71 Windswept Highlands :gift:
 - [ ] 72 Oozing Grove
 - [ ] 76 Harrower Hive :muscle:
