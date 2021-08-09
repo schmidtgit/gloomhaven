@@ -1,5 +1,5 @@
 # Gloomhaven
-- 22 :crown: Reputation
+- 23 :crown: Reputation
 - -5 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
@@ -32,15 +32,7 @@
 ### Doomstalker - Doomguy (lvl 5)
 90 :moneybag:
 210 :star:
-- [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
-- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
-- [#014](https://gloomhavendb.com/items/14) Minor Power Potion
-- [#016](https://gloomhavendb.com/items/16) Cloak of Pockets
-- [#021](https://gloomhavendb.com/items/21) Stun Powder
-- [#029](https://gloomhavendb.com/items/29) Comfortable Shoes
-- [#031](https://gloomhavendb.com/items/31) Hawk Helm
-- [#033](https://gloomhavendb.com/items/33) Volatile Bomb
-- [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
+- [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
 
 ### Elementalist - Joe (lvl 6)
 170 :moneybag:
