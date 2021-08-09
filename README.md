@@ -20,7 +20,7 @@
 
 ### Beast Tyrant - Rotten (lvl 9)
 53 :moneybag:
-556 :star:
+574 :star:
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#015](https://gloomhavendb.com/items/15) Boots of Speed
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
@@ -43,22 +43,23 @@
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 
 ### Elementalist - Joe (lvl 6)
-166 :moneybag:
-341 :star:
+170 :moneybag:
+357 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 
-### Quartermaster - Sigurd (lvl 4)
-84 :moneybag:
-191 :star:
+### Quartermaster - Sigurd (lvl 5)
+108 :moneybag:
+228 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 - [#027](https://gloomhavendb.com/items/27) Major Healing Potion
+- [#044](https://gloomhavendb.com/items/44) Splintmail
 
 # Scenarios
 - [x] 1 Black Barrow 
@@ -94,7 +95,8 @@
 - [x] 48 Shadow Weald
 - [x] 47 Lair of the Unseeing Eye
 - [ ] 51 The Void
-- [ ] 57 Investigation
+- [x] 57 Investigation
+- [ ] 58 Bloody Shack
 - [x] 59 Forgotten Grove
 - [x] 60 Alchemy Lab
 - [x] 65 Sulfur Mine 
