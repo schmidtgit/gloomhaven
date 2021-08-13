@@ -31,15 +31,15 @@
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
 ### Doomstalker - Glen (lvl 5)
-15 :moneybag:
-210 :star:
+39 :moneybag:
+230 :star:
 - [#013](https://gloomhavendb.com/items/013) Minor Stamina Potion
 - [#034](https://gloomhavendb.com/items/034) Major Stamina Potion
 - [#113](https://gloomhavendb.com/items/113) Skullbane Axe
 
 ### Elementalist - Joe (lvl 6)
-160 :moneybag:
-357 :star:
+176 :moneybag:
+376 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
@@ -50,8 +50,8 @@
 - [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
 
 ### Quartermaster - Sigurd (lvl 5)
-50 :moneybag:
-228 :star:
+62 :moneybag:
+250 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
