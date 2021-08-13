@@ -24,11 +24,15 @@
 210 :star:
 
 ### Doomstalker - Glen (lvl 5)
-39 :moneybag:
+4 :moneybag:
 230 :star:
+- [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/013) Minor Stamina Potion
+- [#016](https://gloomhavendb.com/items/16) Cloak of Pockets
+- [#021](https://gloomhavendb.com/items/21) Stun Powder
 - [#034](https://gloomhavendb.com/items/034) Major Stamina Potion
 - [#113](https://gloomhavendb.com/items/113) Skullbane Axe
+
 
 ### Elementalist - Joe (lvl 6)
 176 :moneybag:
@@ -43,7 +47,7 @@
 - [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
 
 ### Quartermaster - Sigurd (lvl 5)
-62 :moneybag:
+2 :moneybag:
 250 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
@@ -52,6 +56,8 @@
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 - [#027](https://gloomhavendb.com/items/27) Major Healing Potion
 - [#036](https://gloomhavendb.com/items/36) Boots of Dashing
+- [#025](https://gloomhavendb.com/items/25) Jagged Sword
+- [#032](https://gloomhavendb.com/items/32) Tower Shield
 
 # Scenarios
 - [x] 1 Black Barrow 
