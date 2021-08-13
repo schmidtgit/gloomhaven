@@ -1,5 +1,5 @@
 # Gloomhaven
-- 25 :crown: Reputation
+- 24 :crown: Reputation
 - -5 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
@@ -20,11 +20,11 @@
 - *Vegence Quest*
 
 ### Sunkeeper - Mathias (lvl 5)
-90 :moneybag:
+100 :moneybag:
 210 :star:
 
 ### Doomstalker - Glen (lvl 5)
-4 :moneybag:
+14 :moneybag:
 230 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/013) Minor Stamina Potion
@@ -35,7 +35,7 @@
 
 
 ### Elementalist - Joe (lvl 6)
-176 :moneybag:
+186 :moneybag:
 376 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
@@ -47,7 +47,7 @@
 - [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
 
 ### Quartermaster - Sigurd (lvl 5)
-2 :moneybag:
+12 :moneybag:
 250 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
