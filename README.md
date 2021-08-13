@@ -19,16 +19,9 @@
 - *Redthorn's Aid*
 - *Vegence Quest*
 
-### Beast Tyrant - Rotten (lvl 9)
-53 :moneybag:
-574 :star:
-- [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
-- [#015](https://gloomhavendb.com/items/15) Boots of Speed
-- [#017](https://gloomhavendb.com/items/17) Empowering Talisman
-- [#028](https://gloomhavendb.com/items/28) Moon Earring
-- [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
-- [#100](https://gloomhavendb.com/items/100) Robes of Summoning
-- [#124](https://gloomhavendb.com/items/124) Doom Compas
+### Sunkeeper - Mathias (lvl 5)
+90 :moneybag:
+210 :star:
 
 ### Doomstalker - Glen (lvl 5)
 39 :moneybag:
