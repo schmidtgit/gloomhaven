@@ -20,12 +20,12 @@
 - *Vegence Quest*
 
 ### Sunkeeper - Mathias (lvl 5)
-100 :moneybag:
-210 :star:
+109 :moneybag:
+217 :star:
 
 ### Doomstalker - Glen (lvl 5)
-14 :moneybag:
-230 :star:
+18 :moneybag:
+238 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/013) Minor Stamina Potion
 - [#016](https://gloomhavendb.com/items/16) Cloak of Pockets
@@ -35,8 +35,8 @@
 
 
 ### Elementalist - Joe (lvl 6)
-186 :moneybag:
-376 :star:
+192 :moneybag:
+381 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
@@ -47,8 +47,8 @@
 - [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
 
 ### Quartermaster - Sigurd (lvl 5)
-12 :moneybag:
-250 :star:
+21 :moneybag:
+257 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
