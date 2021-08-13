@@ -35,23 +35,26 @@
 - [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
 
 ### Elementalist - Joe (lvl 6)
-170 :moneybag:
+160 :moneybag:
 357 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
+- [#007](https://gloomhavendb.com/items/7) Iron Helmet
+- [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 
 ### Quartermaster - Sigurd (lvl 5)
-108 :moneybag:
+50 :moneybag:
 228 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
+- [#017](https://gloomhavendb.com/items/17) Empowering Talisman
 - [#027](https://gloomhavendb.com/items/27) Major Healing Potion
-- [#044](https://gloomhavendb.com/items/44) Splintmail
+- [#036](https://gloomhavendb.com/items/36) Boots of Dashing
 
 # Scenarios
 - [x] 1 Black Barrow 
