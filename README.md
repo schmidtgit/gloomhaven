@@ -1,5 +1,5 @@
 # Gloomhaven
-- 23 :crown: Reputation
+- 25 :crown: Reputation
 - -5 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
@@ -17,6 +17,7 @@
 - *Bad Business*
 - *Through the Trench*
 - *Redthorn's Aid*
+- *Vegence Quest*
 
 ### Beast Tyrant - Rotten (lvl 9)
 53 :moneybag:
@@ -94,9 +95,10 @@
 - [x] 47 Lair of the Unseeing Eye
 - [ ] 51 The Void
 - [x] 57 Investigation
-- [ ] 58 Bloody Shack
+- [x] 58 Bloody Shack
 - [x] 59 Forgotten Grove
 - [x] 60 Alchemy Lab
+- [ ] 63 Magma Pit 
 - [x] 65 Sulfur Mine 
 - [x] 66 Clockwork Cove :gift:
 - [ ] 67 Arcane Library :gift:
