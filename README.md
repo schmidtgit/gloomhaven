@@ -29,10 +29,12 @@
 - [#100](https://gloomhavendb.com/items/100) Robes of Summoning
 - [#124](https://gloomhavendb.com/items/124) Doom Compas
 
-### Doomstalker - Doomguy (lvl 5)
-90 :moneybag:
+### Doomstalker - Glen (lvl 5)
+15 :moneybag:
 210 :star:
-- [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
+- [#013](https://gloomhavendb.com/items/013) Minor Stamina Potion
+- [#034](https://gloomhavendb.com/items/034) Major Stamina Potion
+- [#113](https://gloomhavendb.com/items/113) Skullbane Axe
 
 ### Elementalist - Joe (lvl 6)
 160 :moneybag:
@@ -44,6 +46,7 @@
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
+- [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
 
 ### Quartermaster - Sigurd (lvl 5)
 50 :moneybag:
