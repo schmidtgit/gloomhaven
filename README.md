@@ -1,5 +1,5 @@
 # Gloomhaven
-- 24 :crown: Reputation
+- 25 :crown: Reputation
 - -5 :convenience_store: SHOP DISCOUNT
 
 ### Achievements :trophy:
@@ -20,12 +20,12 @@
 - *Vegence Quest*
 
 ### Sunkeeper - Mathias (lvl 5)
-109 :moneybag:
-217 :star:
+115 :moneybag:
+239 :star:
 
 ### Doomstalker - Glen (lvl 5)
-18 :moneybag:
-238 :star:
+27 :moneybag:
+255 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/013) Minor Stamina Potion
 - [#016](https://gloomhavendb.com/items/16) Cloak of Pockets
@@ -35,8 +35,8 @@
 
 
 ### Elementalist - Joe (lvl 6)
-192 :moneybag:
-381 :star:
+203 :moneybag:
+399 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
@@ -46,9 +46,9 @@
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
 - [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
 
-### Quartermaster - Sigurd (lvl 5)
+### Quartermaster - Sigurd (lvl 6)
 21 :moneybag:
-257 :star:
+278 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#010](https://gloomhavendb.com/items/10) War Hammer
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
@@ -102,7 +102,7 @@
 - [x] 66 Clockwork Cove :gift:
 - [ ] 67 Arcane Library :gift:
 - [ ] 71 Windswept Highlands :gift:
-- [ ] 72 Oozing Grove
+- [x] 72 Oozing Grove
 - [ ] 76 Harrower Hive :muscle:
 - [ ] 81 Temple of the Eclipse
 - [ ] 82 Burning Mountain :gift:
