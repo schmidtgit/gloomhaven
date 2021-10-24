@@ -18,6 +18,8 @@
 - *Through the Trench*
 - *Redthorn's Aid*
 - *Vegence Quest*
+- *Dark Bounty*
+- *Jacksarrays Plans*
 
 ### Sunkeeper - Mathias (lvl 5)
 115 :moneybag:
@@ -65,7 +67,7 @@
 - [x] 3 Inox Encampment 
 - [x] 4 Crypt of the Damned
 - [x] 5 Ruinous Crypt
-- [ ] 6 Decaying Crypt 
+- [x] 6 Decaying Crypt 
 - [x] 7 Vibrant Grotto 
 - [x] 8 Warehouse 
 - [ ] ~~9 Diamond Mine~~
