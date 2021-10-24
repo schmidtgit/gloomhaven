@@ -22,12 +22,16 @@
 - *Jacksarrays Plans*
 
 ### Sunkeeper - Mathias (lvl 5)
-115 :moneybag:
-239 :star:
+65 :moneybag:
+254 :star:
+- [#087](https://gloomhavendb.com/items/87)
+- [#032](https://gloomhavendb.com/items/32)
+- [#028](https://gloomhavendb.com/items/28)
+- [#013](https://gloomhavendb.com/items/13)
 
 ### Doomstalker - Glen (lvl 5)
-27 :moneybag:
-255 :star:
+39 :moneybag:
+294 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/013) Minor Stamina Potion
 - [#016](https://gloomhavendb.com/items/16) Cloak of Pockets
@@ -35,10 +39,9 @@
 - [#034](https://gloomhavendb.com/items/034) Major Stamina Potion
 - [#113](https://gloomhavendb.com/items/113) Skullbane Axe
 
-
-### Elementalist - Joe (lvl 6)
-203 :moneybag:
-399 :star:
+### Elementalist - Joe (lvl 7)
+29 :moneybag:
+418 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
@@ -46,13 +49,11 @@
 - [#020](https://gloomhavendb.com/items/20) Minor Mana Potion
 - [#034](https://gloomhavendb.com/items/34) Major Stamina Potion
 - [#075](https://gloomhavendb.com/items/75) Circlet of Elements
-- [#102](https://gloomhavendb.com/items/102) Sacrificial Robes
 
 ### Quartermaster - Sigurd (lvl 6)
-21 :moneybag:
-278 :star:
+86 :moneybag:
+295 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
-- [#010](https://gloomhavendb.com/items/10) War Hammer
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
 - [#017](https://gloomhavendb.com/items/17) Empowering Talisman
