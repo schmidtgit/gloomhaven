@@ -20,6 +20,7 @@
 - *Vegence Quest*
 - *Dark Bounty*
 - *Jacksarrays Plans*
+- *An Invitation*
 
 ### Sunkeeper - Mathias (lvl 5)
 65 :moneybag:
@@ -85,7 +86,8 @@
 - [x] 22 Temple of The Elements
 - [ ] 23 Deep Ruins
 - [x] 26 Ancient Cistern
-- [ ] 28 Outer Ritual Chamber
+- [x] 28 Outer Ritual Chamber
+- [ ] 29 Sanctuary of Gloom
 - [x] 31 Plane of Night
 - [ ] ~~35 Gloomhaven Battlements A~~
 - [x] 36 Gloomhaven Battlements B
