@@ -23,26 +23,27 @@
 - *An Invitation*
 
 ### Sunkeeper - Mathias (lvl 5)
-65 :moneybag:
-254 :star:
+23 :moneybag:
+270 :star:
 - [#087](https://gloomhavendb.com/items/87)
 - [#032](https://gloomhavendb.com/items/32)
 - [#028](https://gloomhavendb.com/items/28)
 - [#013](https://gloomhavendb.com/items/13)
 
-### Doomstalker - Glen (lvl 5)
-39 :moneybag:
-294 :star:
+### Doomstalker - Glen (lvl 6)
+16 :moneybag:
+295 :star:
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
 - [#013](https://gloomhavendb.com/items/013) Minor Stamina Potion
 - [#016](https://gloomhavendb.com/items/16) Cloak of Pockets
 - [#021](https://gloomhavendb.com/items/21) Stun Powder
 - [#034](https://gloomhavendb.com/items/034) Major Stamina Potion
+- [#041](https://gloomhavendb.com/items/041) Major Powe Potion
 - [#113](https://gloomhavendb.com/items/113) Skullbane Axe
 
-### Elementalist - Joe (lvl 7)
-29 :moneybag:
-418 :star:
+### Elementalist - Joe (lvl 8)
+50 :moneybag:
+438 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#007](https://gloomhavendb.com/items/7) Iron Helmet
 - [#012](https://gloomhavendb.com/items/12) Minor Healing Potion
@@ -53,7 +54,7 @@
 
 ### Quartermaster - Sigurd (lvl 6)
 86 :moneybag:
-295 :star:
+312 :star:
 - [#005](https://gloomhavendb.com/items/5) Cloak of Invisibility
 - [#013](https://gloomhavendb.com/items/13) Minor Stamina Potion
 - [#014](https://gloomhavendb.com/items/14) Minor Power Potion
